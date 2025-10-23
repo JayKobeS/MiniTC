@@ -24,12 +24,10 @@ Tworzenie narzędzia przypominającego klasyczny Total Commander
 
 📁 Podgląd aktualnej ścieżki
 
-⌨️ Obsługa skrótów klawiszowych (np. F5 – kopiuj, F8 – usuń)
+⌨️ Obsługa skrótów klawiszowych
 
 🛠 Technologie
-Komponent	Technologia / Biblioteka
 Język	C#
-Framework	.NET 6 / .NET 8
+Framework	.NET 8
 Interfejs	WinForms / WPF
 System plików	System.IO API
-Testy	MSTest / xUnit (opcjonalnie)
